@@ -1,0 +1,13 @@
+@import "./fonts/fonts.css";
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+
+body{
+  background:  rgb(241, 244, 248);
+  font-family: "SF UI Text Regular", Arial,sans-serif;
+}
